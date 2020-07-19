@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shrimpfeedmanagement">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activity.PerawatanActivity"
+            android:label="Info"
+            android:parentActivityName=".Activity.AlmanacActivity"/>
+        <activity
+            android:name=".Activity.VirusActivity"
+            android:label="Virus"
+            android:parentActivityName=".Activity.AlmanacActivity"/>
+        <activity android:name=".Activity.BudidayaActivity"
+            android:label="Budidaya"
+            android:parentActivityName=".Activity.AlmanacActivity"/>
+        <activity
+            android:name=".Activity.UdangActivity"
+            android:label="Udang Vanamei"
+            android:parentActivityName=".Activity.AlmanacActivity"/>
+        <activity android:name=".Activity.UserActivity"
+            android:label="My Profile"
+            android:parentActivityName=".Activity.HomeActivity"/>
+        <activity
+            android:name=".Activity.ReportActivity"
+            android:label="Report" />
+        <activity
+            android:name=".Activity.AlmanacActivity"
+            android:label="Almanac" />
+        <activity android:name=".Activity.RegisterActivity" />
+        <activity
+            android:name=".Activity.HomeActivity"
+            android:label="Daftar Item" />
+        <activity
+            android:name=".Activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

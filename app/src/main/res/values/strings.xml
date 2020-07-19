@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ShrimpFeedManagement</string>
+
+    <string name="udang_par1">
+        Udang merupakan salah satu komoditas perikanan Indonesia yang berpotensi besar untuk dikembangkan.
+        Saat ini komoditas udang bernilai ekonomi mencapai USD250 miliar atau sekitar Rp3,6 triliun setiap tahun.
+        Indonesia sendiri menempati urutan ketiga terbesar sebagai negara pengekspor udang di pasar dunia setelah
+        Thailand dan India. Jenis udang yang diekspor oleh Indonesia di antaranya adalah udang windu, udang vaname,
+        dan jenis udang lainnya.
+    </string>
+    <string name="udang_par2">
+        Khususnya mengenai udang vaname (Litopenaeus vannamei), rata-rata jenis udang ini memiliki
+        kontribusi volume ekspor mencapai 85%. Udang vaname memiliki karakteristik spesifik, seperti
+        mampu hidup pada kisaran salinitas yang luas, mampu beradaptasi dengan lingkungan bersuhu
+        rendah, memiliki tingkat keberlangsungan hidup yang tinggi, dan memiliki ketahanan yang
+        cukup baik terhadap penyakit sehingga cocok untuk dibudidayakan di tambak.
+    </string>
+    <string name="udang_par3">
+        Udang vaname merupakan udang yang berasal dari daerah subtropis pantai barat Amerika,
+        mulai dari Teluk California di Mexico bagian utara sampai pantai barat Guatemala,
+        El Salvador, Nicaragua, Kosta Rika di Amerika Tengah hingga ke Peru di Amerika
+        Selatan. Di Indonesia udang vaname mulai banyak di budidayakan dan dijadikan sebagai
+        pengganti udang windu (Penaeus monodon), dimana produksi udang windu menurun sejak
+        1996 akibat penurunan kualitas lingkungan dan sering mengalami kematian massal akibat
+        penyakit dan virus.
+    </string>
+    <string name="udang_par4">
+        Udang vaname mempunyai keunggulan diantaranya dapat mencapai ukuran besar, dapat
+        tumbuh secepat udang windu (3 g/minggu), dapat dibudidayakan pada kisaran salinitas
+        yang lebar (0,5- 45 ppt /part per thousand), kebutuhan protein yang lebih rendah (20-35%)
+        dibanding udang windu dan dapat ditebar dengan kepadatan tinggi hingga lebih dari 150 ekor/m2.
+    </string>
+
+    <string name="about">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet beatae dolores enim impedit
+        modi nisi quibusdam! Autem consequatur, esse fugiat fugit illo, iste necessitatibus non
+        omnis porro quasi quidem tenetur?
+    </string>
+
+    <string name="judul1">1. Persiapan Tambak Udang</string>
+    <string name="isi1">Cara budidaya udang vaname yang pertama yaitu mempersiapkan tambak udang vaname.
+        Persiapan tambak udang vaname bertujuan untuk mempercepat proses oksidasi yang dapat menetralkan
+        keasaman pada tanah, membuang gas-gas beracun dan membunuh bibit hama penyakit yang ada di
+        tanah dasar tambak.Ada 4 cara dalam persiapan tambak, Yaitu:</string>
+
+    <string name="judul2">A. Pengeringan Tambak</string>
+    <string name="isi2">Cara awal dalam persiapan tambak udang vaname yaitu pengeringan tambak.
+        Hal ini berfungsi untuk membunuh bakteri merugikan yang berada di dalam kolam tambak.
+        Setelah tambak dikeringkan, /n maka biarkan 3hari untuk memastikan bakteri yang merugikan
+        didalam kolam tambak hilang dan mati.</string>
+
+    <string name="judul3">B. Pembajakan Tambak</string>
+    <string name="isi3">Setelah dasar tanah tambak telah kering, langkah selanjutnya yaitu membajak
+        tanah pada tambak dengan kedalaman sekitar 10cm. Jika terdapat sampah pada saat melakukan
+        pembajakan, dulur-dulur bisa membuang sampah tersebut.
+    Pembajakan pada tambak ini bertujuan untuk mengangkat sisa lumpur, dan menghilangkan bau
+        busuk yang berasal dari sisa pakan yang mengendap didasar tambak.</string>
+
+    <string name="judul4">C. Mengembalikan PH Tanah</string>
+    <string name="isi4">Tingkat keasaman air tambak dapat mempengaruhi pertumbuhan udang vaname
+        bahkan dalam tingkat yang ekstrem, derajat keasaman (pH) dapat membunuh udang vaname.
+        Dalam budidaya udang vaname, memerlukan tingkat keasaman 7.5 hingga 8.5 pH. Pada nilai
+        pH 7.5 hingga 8.5 udang vaname akan dapat tumbuh dengan baik.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
